@@ -17,7 +17,7 @@ namespace SaludoNombre
     {
         static void Main(string[] args)
         {
-            var Saludo = "Hola Bienvenido, ";
+            var Saludo = "Hola Bienvenidos, ";
             var Nombre = "Kevin Alexander Luna Acosta ";
             
             Console.WriteLine(Saludo + Nombre);

@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.GradosCelciosAGradosFahre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.CalculoDeImpust", "5.CalculoDei\5.CalculoDeImpust.csproj", "{43C634F7-C0FD-4487-925B-429372F02ACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.NotasDeUnEstudiante", "6.NotasDeUnEstudiante.\6.NotasDeUnEstudiante.csproj", "{3F14F40A-F373-4F62-9681-B0F69059116A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.NotasDeUnEstudiante", "6.NotasDeUnEstudiante\6.NotasDeUnEstudiante.csproj", "{3F14F40A-F373-4F62-9681-B0F69059116A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAcostaClaseTeorica12082021", "LunaAcostaClaseTeorica12082021\LunaAcostaClaseTeorica12082021.csproj", "{A88FFB23-AA9F-4894-910D-183DC128DDA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3F14F40A-F373-4F62-9681-B0F69059116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F14F40A-F373-4F62-9681-B0F69059116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F14F40A-F373-4F62-9681-B0F69059116A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
