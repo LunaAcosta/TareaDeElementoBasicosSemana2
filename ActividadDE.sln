@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.NotasDeUnEstudiante", "6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaAcostaClaseTeorica12082021", "LunaAcostaClaseTeorica12082021\LunaAcostaClaseTeorica12082021.csproj", "{A88FFB23-AA9F-4894-910D-183DC128DDA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActividadDElaClaseTeorica1208201", "ActividadDElaClaseTeorica1208201\ActividadDElaClaseTeorica1208201.csproj", "{91D89059-B9DF-4D0D-B755-E517CF32432C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A88FFB23-AA9F-4894-910D-183DC128DDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D89059-B9DF-4D0D-B755-E517CF32432C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D89059-B9DF-4D0D-B755-E517CF32432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D89059-B9DF-4D0D-B755-E517CF32432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D89059-B9DF-4D0D-B755-E517CF32432C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
